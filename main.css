@@ -1,0 +1,18 @@
+.placement-top{
+    display: none;
+}
+#bdshare > a{
+    height: 25px;
+}
+#bdshare > span{
+    height: 25px;
+}
+body{
+    background-color: #EEE;
+}
+
+.container-narrow{
+    background-color: #FFF;
+    max-width: 960px;
+    padding: 1px 15px;
+}
